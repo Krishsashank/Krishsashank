@@ -1,63 +1,74 @@
-Hi, I'm Krish Sashank 👋
+# Hey there, I'm Krish Sashank 👋  
+### CSE Student • Developer • ML Enthusiast • Tech Explorer  
 
-<p align="center">
-  <img src="./profile-photo.jpg" width="180" alt="Krish Sashank">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Projects+with+Code;Full+Stack+Developer;Machine+Learning+Explorer;Python+%7C+Java+%7C+React;Always+Learning+Something+New" />
+
+---
+
+## 🚀 About Me
+- 🎓 CSE Student at **Amrita Vishwa Vidyapeetham, Amaravati**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 💻 Passionate about **Software Development**
+- 🌐 Exploring **Full Stack Development**
+- 🐍 Working with **Python & Java**
+- ⚛️ Building interfaces with **React**
+- 🚀 Learning, building, and experimenting with new technologies
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Krishsashank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
-<p align="center">
-  <b>Computer Science Engineering Student • Developer • ML Enthusiast</b>
-</p>
+---
+
+# ⚙️ Tech Arsenal
+
+### 💻 Languages
+![My Skills](https://skillicons.dev/icons?i=python,java)
+
+### 🌐 Web Development
+![My Skills](https://skillicons.dev/icons?i=react)
+
+### 🤖 AI / ML
+![My Skills](https://skillicons.dev/icons?i=python)
+
+### 🛠️ Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode)
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Krishsashank">
-    <img src="https://img.shields.io/badge/GitHub-Krishsashank-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
-
-👨‍💻 About Me
-
-I'm a Computer Science Engineering student at Amrita Vishwa Vidyapeetham, Amaravati, interested in building practical software and exploring machine learning.
-
-I enjoy turning ideas into projects, learning new technologies, and continuously improving my development skills.
-
-🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,react,git,github" alt="Tech stack">
-</p>
-
-Languages: Python, Java
-
-Frontend: React
-
-Interests: Machine Learning, Software Development
-
-Tools: Git, GitHub
-
-🚀 Projects
-
-Projects coming soon — I'll add my best projects here.
-
-<!--
-### Project Name
-Short description of the project.
-
-**Tech:** Python • React • Machine Learning
-
-[View Project](#)
--->
-
-📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishsashank&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsashank&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Krishsashank&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishsashank&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishsashank&hide_border=true&theme=transparent" alt="GitHub streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishsashank&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
-<p align="center">
-  <i>"Building, learning, and improving — one commit at a time."</i>
-</p>
+---
+
+# 🧠 Current Focus
+
+```yaml
+Learning:
+  - Machine Learning
+  - Artificial Intelligence
+  - Full Stack Development
+  - React
+
+Building:
+  - ML Projects
+  - Full Stack Applications
+  - AI-powered Solutions
+
+Goals:
+  - Build impactful projects
+  - Improve development skills
+  - Explore AI & ML
+  - Contribute to Open Source
